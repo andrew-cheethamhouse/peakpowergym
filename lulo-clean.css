@@ -1,0 +1,8 @@
+@font-face {font-family: "LuloCleanW01-OneBold";
+    src: url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean.eot"); /* IE9*/
+    src: url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean-iefix.eot") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean.woff2") format("woff2"), /* chrome firefox */
+    url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean.woff") format("woff"), /* chrome firefox */
+    url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("https://andrew-cheethamhouse.github.io/peakpowergym/fonts/lulo-clean.svg") format("svg"); /* iOS 4.1- */
+}
